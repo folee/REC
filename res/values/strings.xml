@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Record Now!</string>
+    <string name="app_name">REC</string>
+    <string name="title">Title:</string>
+    <string name="duration">Duration (in seconds):</string>
+    <string name="empty"> </string>
+
+</resources>
